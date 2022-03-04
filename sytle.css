@@ -1,5 +1,9 @@
 h1 {
-    color: #221e1e;
+    color: #f8f0f0;
     text-align: center;
-    background-color: bisque;
+    background-color: rgb(12, 12, 12);
+}
+footer {
+    position: fixed;
+    bottom: 0px;
 }
