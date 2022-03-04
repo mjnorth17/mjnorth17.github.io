@@ -1,10 +1,17 @@
 * {
     box-sizing: content-box;
   }
-h1 {
+header {
     color: #f8f0f0;
     text-align: center;
     background-color: rgb(12, 12, 12);
+}
+header ul li {
+    list-style: none;
+}
+li:hover {
+    color: black;
+    background-color: white;
 }
 #main {
     text-align: center;
